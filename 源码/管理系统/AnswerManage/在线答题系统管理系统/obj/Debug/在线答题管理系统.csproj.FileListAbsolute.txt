@@ -1,0 +1,37 @@
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题管理系统.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.g.resources
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题管理系统.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.exe
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\LoginWindow.baml
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerManage\在线答题系统管理系统\obj\Debug\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe.config
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.exe
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.pdb
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe.manifest
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.application
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.pdb
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\LoginWindow.baml
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统_MarkupCompile.cache
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.g.resources
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.exe.manifest
+C:\Users\Administrator\Desktop\源码1\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.application
+D:\开发资料\原创系统\在线答题系统\源码\管理系统\AnswerManage\在线答题系统管理系统\bin\Debug\在线答题系统管理系统.exe.config
+D:\开发资料\原创系统\在线答题系统\源码\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.exe
+D:\开发资料\原创系统\在线答题系统\源码\管理系统\AnswerManage\在线答题系统管理系统\obj\Debug\在线答题系统管理系统.pdb

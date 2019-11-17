@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\bin\Release\AnswerEntity.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\bin\Release\AnswerEntity.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\obj\Release\AnswerEntity.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\obj\Release\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Release\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Release\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Release\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Release\AnswerEntity.pdb

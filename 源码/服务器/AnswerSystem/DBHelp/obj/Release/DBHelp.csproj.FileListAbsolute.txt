@@ -1,0 +1,60 @@
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\DBHelp.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\DBHelp.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\AnswerEntity.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\HelpUtil.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\AnswerEntity.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\bin\Release\HelpUtil.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\obj\Release\DBHelp.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\DBHelp\obj\Release\DBHelp.pdb
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.dll
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.pdb
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.dll
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\Newtonsoft.Json.dll
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.pdb
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.dll
+E:\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\Newtonsoft.Json.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\DBHelp.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\AnswerEntity.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\bin\Release\HelpUtil.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\DBHelp\obj\Release\DBHelp.pdb
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\DBHelp.dll
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\DBHelp.pdb
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\AnswerEntity.dll
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\HelpUtil.dll
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\AnswerEntity.pdb
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\bin\Release\HelpUtil.pdb
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.dll
+C:\Users\Administrator\Desktop\源码1\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\DBHelp.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\DBHelp.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\AnswerEntity.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\HelpUtil.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\Newtonsoft.Json.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\AnswerEntity.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\bin\Release\HelpUtil.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.csprojResolveAssemblyReference.cache
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\DBHelp\obj\Release\DBHelp.pdb

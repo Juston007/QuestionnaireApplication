@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\Test.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\AnswerEntity.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\AnswerEntity.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\obj\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\obj\Debug\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\DBHelp.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\HelpUtil.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\DBHelp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\Test\bin\Debug\HelpUtil.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">百科达人</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main_frame">MainFrameActivity</string>
+    <string name="title_activity_me_fragment">MeFragment</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+    <string name="title_activity_answer_result">AnswerResultActivity</string>
+    <string name="title_activity_question_details">QuestionDetailsActivity</string>
+    <string name="title_activity_class_completion">ClassCompletionActivity</string>
+    <string name="title_activity_class_grade_rank">ClassGradeRankActivity</string>
+    <string name="title_activity_user_grade_record">UserGradeRecordActivity</string>
+    <string name="title_activity_manage">ManageActivity</string>
+    <string name="title_activity_update_user_info">UpdateUserInfoActivity</string>
+    <string name="title_activity_modify_pwd">ModifyPwdActivity</string>
+    <string name="title_activity_answer_result_info">AnswerResultInfoActivity</string>
+
+</resources>

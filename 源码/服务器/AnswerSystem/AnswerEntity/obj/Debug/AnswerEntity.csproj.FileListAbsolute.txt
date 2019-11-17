@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.dll
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.dll
+c:\users\administrator\documents\visual studio 2012\Projects\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.csprojResolveAssemblyReference.cache
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerEntity\bin\Debug\AnswerEntity.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerEntity\obj\Debug\AnswerEntity.pdb

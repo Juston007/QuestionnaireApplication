@@ -1,0 +1,57 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\AnswerServices\bin\AnswerServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\AnswerServices\bin\AnswerServices.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\AnswerEntity.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\DBHelp.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\HelpUtil.dll
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\AnswerEntity.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\DBHelp.pdb
+C:\Users\Administrator\Documents\visual studio 2012\Projects\AnswerEntity\AnswerServices\bin\HelpUtil.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\DBHelp.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\DBHelp.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.pdb
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.csprojResolveAssemblyReference.cache
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.dll
+E:\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\DBHelp.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\DBHelp.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.csprojResolveAssemblyReference.cache
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.dll
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.pdb
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.dll.CodeAnalysisLog.xml
+E:\原创系统\在线答题系统\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.dll.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\AnswerServices.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\DBHelp.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\AnswerEntity.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\DBHelp.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\bin\HelpUtil.pdb
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.dll
+C:\Users\Administrator\Desktop\源码\服务器\AnswerEntity\AnswerServices\obj\Debug\AnswerServices.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\AnswerServices.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\AnswerServices.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\AnswerEntity.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\DBHelp.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\HelpUtil.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\AnswerEntity.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\DBHelp.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\bin\HelpUtil.pdb
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\obj\Debug\AnswerServices.csprojResolveAssemblyReference.cache
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\obj\Debug\AnswerServices.dll
+D:\开发资料\原创系统\在线答题系统\源码\服务器\AnswerSystem\AnswerServices\obj\Debug\AnswerServices.pdb
